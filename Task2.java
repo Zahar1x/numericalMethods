@@ -1,6 +1,5 @@
 package ru.mai.numericalMethods.homeTest;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task2 {
